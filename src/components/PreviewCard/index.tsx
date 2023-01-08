@@ -14,11 +14,11 @@ export function PreviewCard() {
       <Description>Our Equilibrium collection promotes  balance and calm.</Description>
       <Details>
         <ValueContainer>
-        <CurrencyEth color= '#00FFF6' size={20} weight="fill" />
+        <CurrencyEth color="#00FFF6" size={20} weight="fill" />
           0.041 ETH 
         </ValueContainer>
         <DateContainer>
-        <Clock size={15} weight="fill" />
+        <Clock color="#8BACDA" size={15} weight="fill" />
           3 days left
         </DateContainer>
       </Details>
