@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [profile-card-tatimunizz.vercel.app](https://profile-card-tatimunizz.vercel.app)
+- Live Site URL: [preview-card-tatimunizz.vercel.app](https://preview-card-tatimunizz.vercel.app)
 
 ## My process
 
@@ -44,7 +44,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Continued development
 
-I would love to keep working on single components and making them work by themselves and adpt in any envirmonment.
+I would love to keep working on single components and making them work by themselves and adapt in any envirmonment.
 ### Useful resources
 
 - [Rem to Pixel converter](https://codebeautify.org/rem-to-px-converter) - This is a great place to quickly convert pixels to rem.
