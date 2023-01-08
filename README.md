@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Preview card component solution
 
 This is a solution to the [Preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
